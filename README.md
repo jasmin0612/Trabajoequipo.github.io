@@ -1,4 +1,4 @@
-<!DOCTYPE html>  <html lang="es">  
+
 <head>  
   <meta charset="UTF-8" />  
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
@@ -335,10 +335,10 @@ footer {
 
   </div>    <footer>  
     <div class="social-icons">  
-      <a href="#"><img src="facebook.png" alt="Facebook" /></a>  
-      <a href="#"><img src="instagram.png" alt="Instagram" /></a>  
-      <a href="#"><img src="twitter.png" alt="Twitter" /></a>  
-      <a href="#"><img src="youtube.png" alt="YouTube" /></a>  
+      <img src="facebook.png" alt="Facebook" />
+      <img src="instagram.png" alt="Instagram" />
+      <img src="twitter.png" alt="Twitter" />
+      <img src="youtube.png" alt="YouTube" />
     </div>  
     <p>Drogas y Prevención &copy; 2025</p>  
   </footer>  </body>  
